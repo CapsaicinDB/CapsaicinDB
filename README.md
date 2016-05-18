@@ -10,3 +10,6 @@
 The compound was first extracted in impure form in 1816 by <b>Christian Friedrich Bucholz</b> (1770–1818). He called it "capsicin", after the genus <b>Capsicum</b> from which it was extracted. John Clough Thresh (1850–1932), who had isolated capsaicin in almost pure form, gave it the name "capsaicin" in 1876. Karl Micko isolated capsaicin in its pure form in 1898. Capsaicin's chemical composition was first determined by E. K. Nelson in 1919, who also partially elucidated capsaicin's chemical structure. Capsaicin was first synthesized in 1930 by Ernst Spath and Stephen F. Darling. In 1961, similar substances were isolated from chili peppers by the Japanese chemists S. Kosuge and Y. Inagaki, who named them <b>capsaicinoids</b>.
 
 <b>Note:</b> In 1873 German pharmacologist Rudolf Buchheim (1820–1879) and in 1878 the Hungarian doctor Endre Hőgyes stated that "capsicol" (partially purified capsaicin) caused the burning feeling when in contact with mucous membranes and increased secretion of gastric acid.
+
+### Chemical Facts
+<b>Capsaicin</b> is the main capsaicinoid in chili peppers, followed by dihydrocapsaicin. These two compounds are also about twice as potent to the taste and nerves as the minor <b>capsaicinoids</b> - nordihydrocapsaicin, homodihydrocapsaicin, and homocapsaicin.
