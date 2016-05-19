@@ -13,3 +13,10 @@ The compound was first extracted in impure form in 1816 by <b>Christian Friedric
 
 ### Chemical Facts
 <b>Capsaicin</b> is the main capsaicinoid in chili peppers, followed by dihydrocapsaicin. These two compounds are also about twice as potent to the taste and nerves as the minor <b>capsaicinoids</b> - nordihydrocapsaicin, homodihydrocapsaicin, and homocapsaicin.
+
+A well known facts about <b>Capsaicin</b> are
+- Chemical Formula: C<sub>18</sub>H<sub>27</sub>NO<sub>3</sub>
+- IUPAC Name: (<i>E</i>)-<i>N</i>-[(4-Hydroxy-3-methoxyphenyl)methyl]-8-methylnon-6-enamide
+- Molar Mass: 305.42 g·mol<sup>−1</sup>
+- Boiling point: 210.0 °C
+- Melting point: 62.0 °C
