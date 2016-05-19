@@ -20,3 +20,5 @@ A well known facts about <b>Capsaicin</b> are
 - Molar Mass: 305.42 g·mol<sup>−1</sup>
 - Boiling point: 210.0 °C
 - Melting point: 62.0 °C
+- Solubility: Soluble in alcohol, ether, and benzene
+- Crystal structure: Monoclinic
