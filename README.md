@@ -22,3 +22,5 @@ A well known facts about <b>Capsaicin</b> are
 - Melting point: 62.0 °C
 - Solubility: Soluble in alcohol, ether, and benzene
 - Crystal structure: Monoclinic
+
+Capsaicin is believed to be synthesized in the interlocular septum of chili peppers by addition of a branched-chain fatty acid to vanillylamine; specifically, capsaicin is made from vanillylamine and 8-methyl-6-nonenoyl CoA. Biosynthesis depends on the gene <b>AT3</b>, which resides at the <b>pun1</b> locus, and which encodes a putative acyltransferase.
