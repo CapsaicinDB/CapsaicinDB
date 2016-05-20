@@ -24,3 +24,5 @@ A well known facts about <b>Capsaicin</b> are
 - Crystal structure: Monoclinic
 
 Capsaicin is believed to be synthesized in the interlocular septum of chili peppers by addition of a branched-chain fatty acid to vanillylamine; specifically, capsaicin is made from vanillylamine and 8-methyl-6-nonenoyl CoA. Biosynthesis depends on the gene <b>AT3</b>, which resides at the <b>pun1</b> locus, and which encodes a putative acyltransferase.
+
+The pungency (is the condition of having a strong, sharp smell or taste that is often so strong that it is unpleasant) of hot pepper is due to the accumulation of capsaicinoids, a group of <b>alkaloids</b> that are unique to the <b>Capsicum</b> genus. The heat sensation created by these capsaicinoids is such a defining aspect of this crop that the genus name <i>Capsicum</i> comes from the Greek <i>kapto</i>, which means 'to bite'.
